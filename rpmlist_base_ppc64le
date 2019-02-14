@@ -1,3 +1,8 @@
+# DESCRIPTION Basic OCD install
+# ID base
+# NAME Base Install
+# VISIBLE false
+# YUM mandatory
 389-ds-base-1.3.8.4-18.el7_6.ppc64le
 389-ds-base-libs-1.3.8.4-18.el7_6.ppc64le
 389-ds-base-snmp-1.3.8.4-18.el7_6.ppc64le
