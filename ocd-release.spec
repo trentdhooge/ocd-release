@@ -5,7 +5,7 @@ Summary: OCD OS Release Information
 License: GPLv2
 Group: System Environment/Base
 Vendor: The Linux Community/LLNL
-Source: %{name}-%{version}-%{release}.tgz
+Source: %{name}-%{version}.tgz
 BuildRoot: %{_tmppath}/%{name}-%{version}
 BuildArch: noarch
 Requires: rpm coreutils
@@ -46,7 +46,7 @@ chmod 444 %{buildroot}/etc/ocd-release
 
 # Install CR/LF Builder key
 %{__mkdir_p} %{buildroot}/etc/pki/rpm-gpg
-%{__cp} keys/*.key $RPM_BUILD_ROOT/etc/pki/rpm-gpg
+%{__cp} keys/RPM-GPG-KEY* $RPM_BUILD_ROOT/etc/pki/rpm-gpg
 
 # link in correct opt rpmlist
 cd %{buildroot}/etc/ocd 
@@ -66,12 +66,11 @@ rm -rf %{buildroot}
 /usr/share/doc/%{name}-%{version}/LICENSE
 /usr/share/doc/%{name}-%{version}/NOTICE
 /usr/share/doc/%{name}-%{version}/README
-/etc/pki/rpm-gpg/*.key
+/etc/pki/rpm-gpg/RPM-GPG-KEY*
 
 %post
 # install all the public keys
 rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY*
-rpm --import /etc/pki/rpm-gpg/*.key
 
 # link in correct opt rpmlist
 cd /etc/ocd 
