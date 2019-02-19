@@ -166,6 +166,6 @@ yum-plugin-fastestmirror-1.1.31-50.el7.noarch
 zlib-1.2.7-18.el7.x86_64
 # DESCRIPTION Minimal set of rpms for a container
 # ID minimal
-# NAME rps
+# NAME minimal
 # VISIBLE true
 # YUM default
