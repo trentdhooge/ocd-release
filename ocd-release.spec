@@ -50,8 +50,9 @@ chmod 444 %{buildroot}/etc/ocd-release
 
 # link in correct opt rpmlist
 cd %{buildroot}/etc/ocd 
-rm -f rpmlist_base
+rm -f rpmlist_base rpmlist_minimal
 ln -s rpmlist_base_`arch` rpmlist_base
+ln -s rpmlist_minimal_`arch` rpmlist_minimal
 
 %clean
 rm -rf %{buildroot}
@@ -74,5 +75,6 @@ rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY*
 
 # link in correct opt rpmlist
 cd /etc/ocd 
-rm -f rpmlist_base
+rm -f rpmlist_base rpmlist_minimal
 ln -s rpmlist_base_`arch` rpmlist_base
+ln -s rpmlist_minimal_`arch` rpmlist_minimal
