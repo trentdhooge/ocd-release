@@ -1,8 +1,3 @@
-# DESCRIPTION Basic OCD install
-# ID base
-# NAME Base Install
-# VISIBLE false
-# YUM mandatory
 389-ds-base-1.3.8.4-22.el7_6.x86_64
 389-ds-base-libs-1.3.8.4-22.el7_6.x86_64
 389-ds-base-snmp-1.3.8.4-22.el7_6.x86_64
@@ -343,7 +338,7 @@ compface-1.5.2-20.el7.x86_64
 comps-extras-7-2.el7.noarch
 conman-0.2.9-1.ocd3.x86_64
 conntrack-tools-1.4.4-4.el7.x86_64
-containers-common-0.1.31-7.gitb0b750d.el7.centos.x86_64
+containers-common-0.1.31-8.gitb0b750d.el7.centos.x86_64
 container-selinux-2.74-1.el7.noarch
 container-storage-setup-0.11.0-2.git5eaf76c.el7.noarch
 control-center-3.28.1-4.el7.x86_64
@@ -602,9 +597,9 @@ docbook-style-dsssl-1.79-18.el7.noarch
 docbook-style-xsl-1.78.1-3.el7.noarch
 docbook-utils-0.6.14-36.el7.noarch
 docbook-utils-pdf-0.6.14-36.el7.noarch
-docker-1.13.1-88.git07f3374.el7.centos.x86_64
-docker-client-1.13.1-88.git07f3374.el7.centos.x86_64
-docker-common-1.13.1-88.git07f3374.el7.centos.x86_64
+docker-1.13.1-91.git07f3374.el7.centos.x86_64
+docker-client-1.13.1-91.git07f3374.el7.centos.x86_64
+docker-common-1.13.1-91.git07f3374.el7.centos.x86_64
 dom4j-1.6.1-20.el7.noarch
 dos2unix-6.0.3-7.el7.x86_64
 dosfstools-3.0.20-10.el7.x86_64
@@ -2489,7 +2484,7 @@ mgetty-1.1.36-28.el7.x86_64
 microcode_ctl-2.1-47.el7.x86_64
 minicom-2.6.2-5.el7.x86_64
 minizip-1.2.7-18.el7.x86_64
-miopengemm-1.1.5_9547fb9-1.x86_64
+miopengemm-1.1.5-1.x86_64
 miopen-hip-1.7.1-1.x86_64
 mkbootdisk-1.5.5-11.el7.x86_64
 mlocate-0.26-8.el7.x86_64
@@ -2722,7 +2717,7 @@ ocaml-compiler-libs-4.05.0-6.el7.x86_64
 ocaml-runtime-4.05.0-6.el7.x86_64
 ocaml-srpm-macros-5-2.el7.noarch
 oci-register-machine-0-6.git2b44233.el7.x86_64
-oci-systemd-hook-0.1.18-2.git3efe246.el7.x86_64
+oci-systemd-hook-0.1.18-3.git8787307.el7_6.x86_64
 oci-umount-2.3.4-2.git87f9237.el7.x86_64
 ocl-icd-2.2.12-1.el7.x86_64
 octave-3.8.2-20.el7.x86_64
@@ -2825,11 +2820,11 @@ p11-kit-devel-0.23.5-3.el7.x86_64
 p11-kit-trust-0.23.5-3.el7.x86_64
 p7zip-16.02-10.el7.x86_64
 p7zip-plugins-16.02-10.el7.x86_64
-pacemaker-1.1.19-8.el7_6.2.x86_64
-pacemaker-cli-1.1.19-8.el7_6.2.x86_64
-pacemaker-cluster-libs-1.1.19-8.el7_6.2.x86_64
-pacemaker-libs-1.1.19-8.el7_6.2.x86_64
-pacemaker-remote-1.1.19-8.el7_6.2.x86_64
+pacemaker-1.1.18-11.1chaos.ocd3.x86_64
+pacemaker-cli-1.1.18-11.1chaos.ocd3.x86_64
+pacemaker-cluster-libs-1.1.18-11.1chaos.ocd3.x86_64
+pacemaker-libs-1.1.18-11.1chaos.ocd3.x86_64
+pacemaker-remote-1.1.18-11.1chaos.ocd3.x86_64
 PackageKit-1.1.10-1.el7.centos.x86_64
 PackageKit-command-not-found-1.1.10-1.el7.centos.x86_64
 PackageKit-glib-1.1.10-1.el7.centos.x86_64
@@ -4323,7 +4318,7 @@ rocm-opencl-1.2.0-2019020220.x86_64
 rocm-opencl-devel-1.2.0-2019020220.x86_64
 rocm-profiler-5.6.7254-g402434f.x86_64
 rocm-smi-1.0.0_100_g3cacdb9-1.x86_64
-rocm_smi64-1.0.0-1.x86_64
+rocm_smi64-0.1.1-1.x86_64
 rocm-utils-2.1.96-1.x86_64
 rocprofiler-dev-1.0.0-1.x86_64
 rocrand-1.8.2-1.x86_64
@@ -5361,5 +5356,5 @@ zlib-devel-1.2.7-18.el7.x86_64
 zsh-5.0.2-31.el7.x86_64
 zvbi-0.2.35-1.el7.x86_64
 zziplib-0.13.62-9.el7.x86_64
-ocd-release-3.4-3.1.ch6.noarch
-ocd-release-base-3.4-3.1.ch6.noarch
+ocd-release-3.4-3.1.ocd3.noarch
+ocd-release-base-3.4-3.1.ocd3.noarch
