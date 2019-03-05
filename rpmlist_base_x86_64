@@ -579,7 +579,7 @@ diffstat-1.57-4.el7.x86_64
 diffutils-3.3-4.el7.x86_64
 dirac-libs-1.0.2-14.el7.x86_64
 distribution-gpg-keys-1.29-1.el7.noarch
-distro-tools-0-35.ocd3.noarch
+distro-tools-0-36.ocd3.noarch
 dkms-2.6.1-1.el7.noarch
 dleyna-connector-dbus-0.2.0-2.el7.x86_64
 dleyna-core-0.5.0-1.el7.x86_64
@@ -2954,7 +2954,9 @@ pcp-webapp-graphite-4.1.0-5.el7_6.noarch
 pcp-webapp-vector-4.1.0-5.el7_6.noarch
 pcp-webjs-4.1.0-5.el7_6.noarch
 pcre2-10.23-2.el7.x86_64
+pcre2-devel-10.23-2.el7.x86_64
 pcre2-utf16-10.23-2.el7.x86_64
+pcre2-utf32-10.23-2.el7.x86_64
 pcre-8.32-17.el7.x86_64
 pcre-devel-8.32-17.el7.x86_64
 pcs-0.9.165-6.el7.centos.x86_64
@@ -3408,6 +3410,7 @@ python2-libcomps-0.1.8-12.el7.x86_64
 python2-mccabe-0.6.1-6.el7.noarch
 python2-mock-1.0.1-10.el7.noarch
 python2-msgpack-0.5.6-4.el7.x86_64
+python2-passlib-1.7.1-1.el7.noarch
 python2-pip-8.1.2-7.el7.noarch
 python2-pyasn1-0.1.9-7.el7.noarch
 python2-pyasn1-modules-0.1.9-7.el7.noarch
@@ -4446,7 +4449,7 @@ shim-x64-15-2.el7.centos.x86_64
 sil-abyssinica-fonts-1.200-6.el7.noarch
 sil-nuosu-fonts-2.1.1-5.el7.noarch
 sil-padauk-fonts-2.8-5.el7.noarch
-singularity-3.0.2-1.ocd3.x86_64
+singularity-3.1.0-1.ocd3.x86_64
 sip-4.14.6-4.el7.x86_64
 sip-devel-4.14.6-4.el7.x86_64
 sip-macros-4.14.6-4.el7.x86_64
@@ -5106,6 +5109,7 @@ vte291-0.52.2-2.el7.x86_64
 vte3-0.36.5-1.el7.x86_64
 vte-devel-0.28.2-10.el7.x86_64
 vte-profile-0.52.2-2.el7.x86_64
+vulkan-filesystem-1.1.73.0-1.el7.noarch
 w3m-0.5.3-36.git20180125.el7.x86_64
 wavpack-4.60.1-9.el7.x86_64
 wavpack-devel-4.60.1-9.el7.x86_64
@@ -5362,7 +5366,3 @@ zlib-devel-1.2.7-18.el7.x86_64
 zsh-5.0.2-31.el7.x86_64
 zvbi-0.2.35-1.el7.x86_64
 zziplib-0.13.62-9.el7.x86_64
-python2-passlib-1.7.1-1.el7.noarch
-vulkan-filesystem-1.1.73.0-1.el7.noarch
-pcre2-utf32-10.23-2.el7.x86_64
-pcre2-devel-10.23-2.el7.x86_64
