@@ -3513,7 +3513,6 @@ python-oauth2-1.5.211-8.el7.noarch
 python-ordereddict-1.1-6.el7.noarch
 python-osbs-client-0.32-1.el7.noarch
 python-paramiko-2.1.1-9.el7.noarch
-python-passlib-1.6.5-2.el7.noarch
 python-paste-1.7.5.1-9.20111221hg1498.el7.noarch
 python-paste-deploy-1.5.0-10.el7.noarch
 python-pcp-4.1.0-5.el7_6.x86_64
@@ -5363,3 +5362,7 @@ zlib-devel-1.2.7-18.el7.x86_64
 zsh-5.0.2-31.el7.x86_64
 zvbi-0.2.35-1.el7.x86_64
 zziplib-0.13.62-9.el7.x86_64
+python2-passlib-1.7.1-1.el7.noarch
+vulkan-filesystem-1.1.73.0-1.el7.noarch
+pcre2-utf32-10.23-2.el7.x86_64
+pcre2-devel-10.23-2.el7.x86_64
