@@ -59,8 +59,8 @@ anaconda-tui-21.48.22.147-1.el7.centos.x86_64
 anaconda-user-help-7.5.3-1.el7.noarch
 anaconda-widgets-21.48.22.147-1.el7.centos.x86_64
 anaconda-widgets-devel-21.48.22.147-1.el7.centos.x86_64
-ansible-2.7.7-1.el7.noarch
-ansible-doc-2.7.7-1.el7.noarch
+ansible-2.7.8-1.el7.noarch
+ansible-doc-2.7.8-1.el7.noarch
 ant-1.9.4-2.el7.noarch
 ant-antlr-1.9.4-2.el7.noarch
 ant-apache-bcel-1.9.4-2.el7.noarch
@@ -301,10 +301,10 @@ clutter-gst2-2.0.18-1.el7.x86_64
 clutter-gst3-3.0.26-1.el7.x86_64
 clutter-gtk-1.8.4-1.el7.x86_64
 cmake-2.8.12.2-2.el7.x86_64
-cmake3-3.13.1-1.el7.x86_64
-cmake3-data-3.13.1-1.el7.noarch
-cmake3-doc-3.13.1-1.el7.noarch
-cmake3-gui-3.13.1-1.el7.x86_64
+cmake3-3.13.4-1.el7.x86_64
+cmake3-data-3.13.4-1.el7.noarch
+cmake3-doc-3.13.4-1.el7.noarch
+cmake3-gui-3.13.4-1.el7.x86_64
 cmpi-bindings-pywbem-0.9.5-6.el7.x86_64
 codemodel-2.6-9.el7.noarch
 cogl-1.22.2-2.el7.x86_64
@@ -376,8 +376,8 @@ cryptsetup-python-2.0.3-3.el7.x86_64
 crystalhd-firmware-3.10.0-11.el7.noarch
 cscope-15.8-10.el7.x86_64
 ctags-5.8-13.el7.x86_64
-cuda-compat-10-0-410.79-1.el7.x86_64
-cuda-repo-rhel7-10.0.130-1.x86_64
+cuda-compat-10-0-410.104-1.el7.x86_64
+cuda-repo-rhel7-10.1.105-1.x86_64
 cudatoolkit-10.0-0-0.ocd3.x86_64
 culmus-aharoni-clm-fonts-0.130-3.el7.noarch
 culmus-caladings-clm-fonts-0.130-3.el7.noarch
@@ -446,6 +446,7 @@ dejavu-sans-fonts-2.33-6.el7.noarch
 dejavu-sans-mono-fonts-2.33-6.el7.noarch
 dejavu-serif-fonts-2.33-6.el7.noarch
 deltarpm-3.6-3.el7.x86_64
+# DESCRIPTION Basic OCD install
 desktop-file-utils-0.23-1.el7.x86_64
 devhelp-3.28.1-1.el7.x86_64
 devhelp-libs-3.28.1-1.el7.x86_64
@@ -577,7 +578,7 @@ dialog-1.2-5.20130523.el7.x86_64
 diffstat-1.57-4.el7.x86_64
 diffutils-3.3-4.el7.x86_64
 dirac-libs-1.0.2-14.el7.x86_64
-distribution-gpg-keys-1.27-1.el7.noarch
+distribution-gpg-keys-1.29-1.el7.noarch
 distro-tools-0-35.ocd3.noarch
 dkms-2.6.1-1.el7.noarch
 dleyna-connector-dbus-0.2.0-2.el7.x86_64
@@ -725,15 +726,15 @@ finger-0.17-52.el7.x86_64
 fio-3.1-2.el7.x86_64
 fipscheck-1.4.1-6.el7.x86_64
 fipscheck-lib-1.4.1-6.el7.x86_64
-firefox-60.5.0-2.el7.centos.x86_64
+firefox-60.5.1-1.el7.centos.x86_64
 firewall-config-0.5.3-5.el7.noarch
 firewalld-0.5.3-5.el7.noarch
 firewalld-filesystem-0.5.3-5.el7.noarch
 flac-1.3.0-5.el7_1.x86_64
 flac-devel-1.3.0-5.el7_1.x86_64
 flac-libs-1.3.0-5.el7_1.x86_64
-flatpak-1.0.2-2.el7.x86_64
-flatpak-libs-1.0.2-2.el7.x86_64
+flatpak-1.0.2-4.el7_6.x86_64
+flatpak-libs-1.0.2-4.el7_6.x86_64
 flex-2.5.37-6.el7.x86_64
 flex-devel-2.5.37-6.el7.x86_64
 flite-1.3-22.el7.x86_64
@@ -782,7 +783,7 @@ fwupd-1.0.8-4.el7.x86_64
 fwupdate-efi-12-5.el7.centos.x86_64
 fwupdate-libs-12-5.el7.centos.x86_64
 fxload-2002_04_11-16.el7.x86_64
-game-music-emu-0.6.1-1.el7.x86_64
+game-music-emu-0.6.2-1.el7.x86_64
 gamin-0.1.10-16.el7.x86_64
 gamin-devel-0.1.10-16.el7.x86_64
 gamin-python-0.1.10-16.el7.x86_64
@@ -978,10 +979,10 @@ gnutls-utils-3.3.29-8.el7.x86_64
 gobject-introspection-1.56.1-1.el7.x86_64
 gobject-introspection-devel-1.56.1-1.el7.x86_64
 goffice08-0.8.17-10.el7.x86_64
-golang-1.11.4-1.el7.x86_64
-golang-bin-1.11.4-1.el7.x86_64
+golang-1.11.5-1.el7.x86_64
+golang-bin-1.11.5-1.el7.x86_64
 golang-godoc-0-1.0.hgd32b5854c941.el7.x86_64
-golang-src-1.11.4-1.el7.noarch
+golang-src-1.11.5-1.el7.noarch
 gom-0.3.3-1.el7.x86_64
 google-crosextra-caladea-fonts-1.002-0.4.20130214.el7.noarch
 google-crosextra-carlito-fonts-1.103-0.2.20130920.el7.noarch
@@ -1197,6 +1198,7 @@ ibutils-libs-1.5.7-13.el7.x86_64
 icedax-1.1.11-25.el7.x86_64
 icedtea-web-1.7.1-1.el7.x86_64
 icoutils-0.31.3-1.el7_3.x86_64
+# ID base
 iftop-1.0-0.14.pre4.el7.x86_64
 ilmbase-1.0.3-7.el7.x86_64
 imagefactory-1.1.8-2.el7.noarch
@@ -1478,7 +1480,7 @@ kmod-libs-20-23.el7.x86_64
 kmod-lustre-2.12.0_1.chaos-1.ocd3.x86_64
 kmod-lustre-osd-zfs-2.12.0_1.chaos-1.ocd3.x86_64
 kmod-mft-4.11.0-103.4.ocd3.x86_64
-kmod-nvidia-410.79-3.ocd3.x86_64
+kmod-nvidia-418.39-0.ocd3.x86_64
 kmod-rock-2.1-96.0.ocd3.x86_64
 kmod-spl-0.7.11-5.2llnl.ocd3.x86_64
 kmod-xpmem-2.6.5-4.ocd3.x86_64
@@ -1745,8 +1747,8 @@ libgsf-devel-1.14.26-7.el7.x86_64
 libgssglue-0.1-11.ocd3.x86_64
 libgtop2-2.38.0-3.el7.x86_64
 libgtop2-devel-2.38.0-3.el7.x86_64
-libgudev1-219-62.el7_6.3.x86_64
-libgudev1-devel-219-62.el7_6.3.x86_64
+libgudev1-219-62.el7_6.5.x86_64
+libgudev1-devel-219-62.el7_6.5.x86_64
 libguestfs-1.38.2-12.el7_6.1.x86_64
 libguestfs-tools-1.38.2-12.el7_6.1.noarch
 libguestfs-tools-c-1.38.2-12.el7_6.1.x86_64
@@ -1777,7 +1779,7 @@ libid3tag-devel-0.15.1b-17.el7.x86_64
 libIDL-0.8.14-8.el7.x86_64
 libIDL-devel-0.8.14-8.el7.x86_64
 libidn-1.28-4.el7.x86_64
-libidn2-2.0.5-1.el7.x86_64
+libidn2-2.1.1a-1.el7.x86_64
 libidn-devel-1.28-4.el7.x86_64
 libiec61883-1.2.0-10.el7.x86_64
 libiec61883-devel-1.2.0-10.el7.x86_64
@@ -1996,8 +1998,8 @@ librepository-1.1.3-9.el7.noarch
 libreswan-3.25-4.1.el7_6.x86_64
 librevenge-0.0.2-2.el7.x86_64
 librevenge-devel-0.0.2-2.el7.x86_64
-libRmath-3.5.1-1.el7.x86_64
-libRmath-devel-3.5.1-1.el7.x86_64
+libRmath-3.5.2-2.el7.x86_64
+libRmath-devel-3.5.2-2.el7.x86_64
 librsvg2-2.40.20-1.el7.x86_64
 librsvg2-devel-2.40.20-1.el7.x86_64
 librsvg2-tools-2.40.20-1.el7.x86_64
@@ -2097,7 +2099,7 @@ libutempter-devel-1.1.6-4.el7.x86_64
 libuuid-2.23.2-59.el7.x86_64
 libuuid-devel-2.23.2-59.el7.x86_64
 libuutil1-0.7.11-5.2llnl.ocd3.x86_64
-libuv-1.24.1-1.el7.x86_64
+libuv-1.26.0-1.el7.x86_64
 libv4l-0.9.5-4.el7.x86_64
 libva-1.8.3-1.el7.x86_64
 libva-vdpau-driver-0.7.4-19.el7.x86_64
@@ -2489,8 +2491,8 @@ miopen-hip-1.7.1-1.x86_64
 mkbootdisk-1.5.5-11.el7.x86_64
 mlocate-0.26-8.el7.x86_64
 mobile-broadband-provider-info-1.20170310-1.el7.noarch
-mock-1.4.13-1.el7.noarch
-mock-core-configs-29.4-1.el7.noarch
+mock-1.4.14-2.el7.noarch
+mock-core-configs-30.2-1.el7.noarch
 mod_auth_gssapi-1.5.1-5.el7.x86_64
 mod_dav_svn-1.7.14-14.el7.x86_64
 modello-1.7-4.el7.noarch
@@ -2506,7 +2508,7 @@ module_dts-3-11.ocd3.x86_64
 module_helper-1-8.ocd3.noarch
 module_rocm-0-3.ocd3.noarch
 mod_wsgi-3.4-18.el7.x86_64
-mokutil-15-1.el7.centos.x86_64
+mokutil-15-2.el7.centos.x86_64
 motif-2.3.4-14.el7_5.x86_64
 motif-devel-2.3.4-14.el7_5.x86_64
 mousetweaks-3.12.0-1.el7.x86_64
@@ -2600,6 +2602,7 @@ nagios-plugins-time-2.2.1-16.20180725git3429dad.el7.x86_64
 nagios-plugins-ups-2.2.1-16.20180725git3429dad.el7.x86_64
 nagios-plugins-users-2.2.1-16.20180725git3429dad.el7.x86_64
 nagios-plugins-wave-2.2.1-16.20180725git3429dad.el7.x86_64
+# NAME Base Install
 nano-2.3.1-10.el7.x86_64
 nasm-2.10.07-7.el7.x86_64
 nautilus-3.26.3.1-2.el7.x86_64
@@ -2699,23 +2702,25 @@ numpy-f2py-1.7.1-13.el7.x86_64
 nuttcp-8.1.4-2.ocd3.x86_64
 nuxwdog-1.0.3-8.el7.x86_64
 nuxwdog-client-java-1.0.3-8.el7.x86_64
-nvidia-410.79-3.ocd3.x86_64
-nvidia-driver-410.79-1.el7.x86_64
-nvidia-driver-cuda-410.79-1.el7.x86_64
-nvidia-driver-cuda-libs-410.79-1.el7.x86_64
-nvidia-driver-devel-410.79-1.el7.x86_64
-nvidia-driver-libs-410.79-1.el7.x86_64
-nvidia-driver-NvFBCOpenGL-410.79-1.el7.x86_64
-nvidia-driver-NVML-410.79-1.el7.x86_64
-nvidia-libXNVCtrl-410.79-1.el7.x86_64
-nvidia-persistenced-410.79-1.el7.x86_64
-nvidia-settings-410.79-1.el7.x86_64
+nvidia-418.39-0.ocd3.x86_64
+nvidia-driver-418.39-4.el7.x86_64
+nvidia-driver-cuda-418.39-4.el7.x86_64
+nvidia-driver-cuda-libs-418.39-4.el7.x86_64
+nvidia-driver-devel-418.39-4.el7.x86_64
+nvidia-driver-libs-418.39-4.el7.x86_64
+nvidia-driver-NvFBCOpenGL-418.39-4.el7.x86_64
+nvidia-driver-NVML-418.39-4.el7.x86_64
+nvidia-libXNVCtrl-418.39-1.el7.x86_64
+nvidia-persistenced-418.39-1.el7.x86_64
+nvidia-settings-418.39-1.el7.x86_64
 obexd-0.46-5.el7.x86_64
 objectweb-asm-3.3.1-9.el7.noarch
 ocaml-4.05.0-6.el7.x86_64
 ocaml-compiler-libs-4.05.0-6.el7.x86_64
 ocaml-runtime-4.05.0-6.el7.x86_64
 ocaml-srpm-macros-5-2.el7.noarch
+ocd-release-3.4-3.1.ocd3.noarch
+ocd-release-base-3.4-3.1.ocd3.noarch
 oci-register-machine-0-6.git2b44233.el7.x86_64
 oci-systemd-hook-0.1.18-3.git8787307.el7_6.x86_64
 oci-umount-2.3.4-2.git87f9237.el7.x86_64
@@ -2803,13 +2808,13 @@ osinfo-db-20181214-1.el7_6.noarch
 osinfo-db-tools-1.1.0-1.el7.x86_64
 os-prober-1.58-9.el7.x86_64
 overpass-fonts-2.1-1.el7.noarch
-ovis-3.4.11-1.ocd3.x86_64
-ovis-devel-3.4.11-1.ocd3.x86_64
-ovis-doc-3.4.11-1.ocd3.x86_64
-ovis-initscripts-base-3.4.11-1.ocd3.x86_64
-ovis-initscripts-systemd-3.4.11-1.ocd3.x86_64
-ovis-python2-3.4.11-1.ocd3.x86_64
-ovis-test-3.4.11-1.ocd3.x86_64
+ovis-3.4.12-1.ocd3.x86_64
+ovis-devel-3.4.12-1.ocd3.x86_64
+ovis-doc-3.4.12-1.ocd3.x86_64
+ovis-initscripts-base-3.4.12-1.ocd3.x86_64
+ovis-initscripts-systemd-3.4.12-1.ocd3.x86_64
+ovis-python2-3.4.12-1.ocd3.x86_64
+ovis-test-3.4.12-1.ocd3.x86_64
 oxygen-cursor-themes-4.11.19-12.el7.noarch
 oxygen-gtk-1.2.0-6.el7.noarch
 oxygen-gtk2-1.3.4-3.el7.x86_64
@@ -3412,14 +3417,14 @@ python2-pylint-gui-1.6.5-4.el7.noarch
 python2-pyroute2-0.4.13-1.el7.noarch
 python2-pysocks-1.6.8-5.el7.noarch
 python2-pyxdg-0.25-6.el7.noarch
-python2-rpkg-1.57-2.el7.noarch
+python2-rpkg-1.57-6.el7.noarch
 python2-rsa-3.4.1-1.el7.noarch
 python2-scons-3.0.1-5.el7.noarch
 python2-simplejson-3.10.0-1.el7.x86_64
 python2-subprocess32-3.2.6-13.el7.x86_64
-python34-3.4.9-1.el7.x86_64
-python34-devel-3.4.9-1.el7.x86_64
-python34-libs-3.4.9-1.el7.x86_64
+python34-3.4.9-2.el7.x86_64
+python34-devel-3.4.9-2.el7.x86_64
+python34-libs-3.4.9-2.el7.x86_64
 python34-PyYAML-3.11-2.el7.x86_64
 python3-rpm-macros-3-22.el7.noarch
 python-async-0.6.1-6.el7.x86_64
@@ -3618,19 +3623,19 @@ quagga-0.99.22.4-5.el7_4.x86_64
 quilt-0.63-2.el7.noarch
 quota-4.01-17.el7.x86_64
 quota-nls-4.01-17.el7.noarch
-R-3.5.1-1.el7.x86_64
+R-3.5.2-2.el7.x86_64
 radvd-2.17-3.el7.x86_64
 raptor2-2.0.9-3.el7.x86_64
 rarian-0.8.1-11.el7.x86_64
 rarian-compat-0.8.1-11.el7.x86_64
 rasdaemon-0.4.1-33.1.el7_5.x86_64
 rasqal-0.9.30-4.el7.x86_64
-R-core-3.5.1-1.el7.x86_64
-R-core-devel-3.5.1-1.el7.x86_64
+R-core-3.5.2-2.el7.x86_64
+R-core-devel-3.5.2-2.el7.x86_64
 rcs-5.9.0-5.el7.x86_64
 rdate-1.4-25.el7.x86_64
 rdesktop-1.8.3-3.ocd3.x86_64
-R-devel-3.5.1-1.el7.x86_64
+R-devel-3.5.2-2.el7.x86_64
 rdist-6.1.5-61.el7.x86_64
 rdma-core-17.2-3.el7.x86_64
 rdma-core-devel-17.2-3.el7.x86_64
@@ -4299,8 +4304,8 @@ rhnsd-5.0.13-10.el7.x86_64
 rhn-setup-2.0.2-24.el7.x86_64
 rhn-setup-gnome-2.0.2-24.el7.x86_64
 rhsm-gtk-1.21.10-3.el7.centos.x86_64
-R-java-3.5.1-1.el7.x86_64
-R-java-devel-3.5.1-1.el7.x86_64
+R-java-3.5.2-2.el7.x86_64
+R-java-devel-3.5.2-2.el7.x86_64
 rmt-1.5.2-13.el7.x86_64
 rngom-201103-0.8.20120119svn.el7.noarch
 rng-tools-6.3.1-3.el7.x86_64
@@ -4326,7 +4331,7 @@ rocr_debug_agent-1.0.0-1.x86_64
 rootfiles-8.1-11.el7.noarch
 rpcbind-0.2.0-47.el7.x86_64
 rpkg-0.14-1.el7.noarch
-rpkg-common-1.57-2.el7.noarch
+rpkg-common-1.57-6.el7.noarch
 rpm-4.11.3-35.el7.x86_64
 rpm-build-4.11.3-35.el7.x86_64
 rpm-build-libs-4.11.3-35.el7.x86_64
@@ -4438,7 +4443,7 @@ shared-desktop-ontologies-0.11.0-2.el7.noarch
 shared-desktop-ontologies-devel-0.11.0-2.el7.noarch
 shared-mime-info-1.8-4.el7.x86_64
 sharutils-4.13.3-8.el7.x86_64
-shim-x64-15-1.el7.centos.x86_64
+shim-x64-15-2.el7.centos.x86_64
 sil-abyssinica-fonts-1.200-6.el7.noarch
 sil-nuosu-fonts-2.1.1-5.el7.noarch
 sil-padauk-fonts-2.8-5.el7.noarch
@@ -4572,11 +4577,11 @@ system-config-printer-libs-1.4.1-21.el7.noarch
 system-config-printer-udev-1.4.1-21.el7.x86_64
 system-config-users-1.3.5-4.el7.noarch
 system-config-users-docs-1.0.9-6.el7.noarch
-systemd-219-62.el7_6.3.x86_64
-systemd-devel-219-62.el7_6.3.x86_64
-systemd-libs-219-62.el7_6.3.x86_64
-systemd-python-219-62.el7_6.3.x86_64
-systemd-sysv-219-62.el7_6.3.x86_64
+systemd-219-62.el7_6.5.x86_64
+systemd-devel-219-62.el7_6.5.x86_64
+systemd-libs-219-62.el7_6.5.x86_64
+systemd-python-219-62.el7_6.5.x86_64
+systemd-sysv-219-62.el7_6.5.x86_64
 systemtap-3.3-3.el7.x86_64
 systemtap-client-3.3-3.el7.x86_64
 systemtap-devel-3.3-3.el7.x86_64
@@ -5086,6 +5091,7 @@ virtuoso-opensource-6.1.6-6.el7.x86_64
 virt-viewer-5.0-11.el7.x86_64
 virt-what-1.18-4.el7.x86_64
 virt-who-0.22.5-1.el7.noarch
+# VISIBLE false
 vlc-3.0.0-0.33.2chaos.ocd3.x86_64
 vlc-core-3.0.0-0.33.2chaos.ocd3.x86_64
 vlc-devel-3.0.0-0.33.2chaos.ocd3.x86_64
@@ -5337,6 +5343,7 @@ yelp-tools-3.28.0-1.el7.noarch
 yelp-xsl-3.28.0-1.el7.noarch
 yum-3.4.3-161.el7.centos.noarch
 yum-langpacks-0.4.2-7.el7.noarch
+# YUM mandatory
 yum-metadata-parser-1.1.4-10.el7.x86_64
 yum-plugin-changelog-1.1.31-50.el7.noarch
 yum-plugin-fastestmirror-1.1.31-50.el7.noarch
@@ -5356,10 +5363,3 @@ zlib-devel-1.2.7-18.el7.x86_64
 zsh-5.0.2-31.el7.x86_64
 zvbi-0.2.35-1.el7.x86_64
 zziplib-0.13.62-9.el7.x86_64
-ocd-release-3.4-3.1.ocd3.noarch
-ocd-release-base-3.4-3.1.ocd3.noarch
-# DESCRIPTION Basic OCD install
-# ID base
-# NAME Base Install
-# VISIBLE false
-# YUM mandatory

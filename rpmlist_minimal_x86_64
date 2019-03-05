@@ -16,6 +16,7 @@ curl-7.29.0-51.el7.x86_64
 cyrus-sasl-lib-2.1.26-23.el7.x86_64
 dbus-1.10.24-12.el7.x86_64
 dbus-libs-1.10.24-12.el7.x86_64
+# DESCRIPTION Minimal set of rpms for a container
 device-mapper-1.02.149-10.el7_6.3.x86_64
 device-mapper-libs-1.02.149-10.el7_6.3.x86_64
 diffutils-3.3-4.el7.x86_64
@@ -40,6 +41,7 @@ grep-2.20-3.el7.x86_64
 groff-base-1.22.2-8.el7.x86_64
 gzip-1.5-10.el7.x86_64
 hardlink-1.0-19.el7.x86_64
+# ID minimal
 info-5.1-5.el7.x86_64
 iputils-20160308-10.el7.x86_64
 json-c-0.11-4.el7_0.x86_64
@@ -79,6 +81,7 @@ libverto-0.2.5-4.el7.x86_64
 libxml2-2.9.1-6.el7_2.3.x86_64
 lua-5.1.4-15.el7.x86_64
 lz4-1.7.5-2.el7.x86_64
+# NAME minimal
 ncurses-5.9-14.20130511.el7_4.x86_64
 ncurses-base-5.9-14.20130511.el7_4.noarch
 ncurses-libs-5.9-14.20130511.el7_4.x86_64
@@ -148,8 +151,8 @@ setup-2.8.71-10.el7.noarch
 shadow-utils-4.1.5.1-25.el7.x86_64
 shared-mime-info-1.8-4.el7.x86_64
 sqlite-3.7.17-8.el7.x86_64
-systemd-219-62.el7_6.3.x86_64
-systemd-libs-219-62.el7_6.3.x86_64
+systemd-219-62.el7_6.5.x86_64
+systemd-libs-219-62.el7_6.5.x86_64
 tar-1.26-35.el7.x86_64
 tzdata-2018i-1.el7.noarch
 ustr-1.0.4-16.el7.x86_64
@@ -157,15 +160,12 @@ util-linux-2.23.2-59.el7.x86_64
 vim-common-7.4.160-5.el7.x86_64
 vim-enhanced-7.4.160-5.el7.x86_64
 vim-filesystem-7.4.160-5.el7.x86_64
+# VISIBLE true
 which-2.20-7.el7.x86_64
 xz-5.2.2-1.el7.x86_64
 xz-libs-5.2.2-1.el7.x86_64
 yum-3.4.3-161.el7.centos.noarch
+# YUM default
 yum-metadata-parser-1.1.4-10.el7.x86_64
 yum-plugin-fastestmirror-1.1.31-50.el7.noarch
 zlib-1.2.7-18.el7.x86_64
-# DESCRIPTION Minimal set of rpms for a container
-# ID minimal
-# NAME minimal
-# VISIBLE true
-# YUM default

@@ -1,8 +1,3 @@
-# DESCRIPTION Basic OCD install
-# ID base
-# NAME Base Install
-# VISIBLE false
-# YUM mandatory
 389-ds-base-1.3.8.4-18.el7_6.ppc64le
 389-ds-base-libs-1.3.8.4-18.el7_6.ppc64le
 389-ds-base-snmp-1.3.8.4-18.el7_6.ppc64le
@@ -416,6 +411,7 @@ dejavu-sans-fonts-2.33-6.el7.noarch
 dejavu-sans-mono-fonts-2.33-6.el7.noarch
 dejavu-serif-fonts-2.33-6.el7.noarch
 deltarpm-3.6-3.el7.ppc64le
+# DESCRIPTION Basic OCD install
 desktop-file-utils-0.23-1.el7.ppc64le
 devhelp-3.28.1-1.el7.ppc64le
 devhelp-libs-3.28.1-1.el7.ppc64le
@@ -1115,6 +1111,7 @@ ibutils-libs-1.5.7-13.el7.ppc64le
 icedax-1.1.11-25.el7.ppc64le
 icedtea-web-1.7.1-1.el7.ppc64le
 icoutils-0.31.3-1.el7_3.ppc64le
+# ID base
 iftop-1.0-0.14.pre4.el7.ppc64le
 ilmbase-1.0.3-7.el7.ppc64le
 imagefactory-1.1.8-2.el7.noarch
@@ -2406,6 +2403,7 @@ nagios-plugins-time-2.2.1-15.20180725git3429dad.el7.ppc64le
 nagios-plugins-ups-2.2.1-15.20180725git3429dad.el7.ppc64le
 nagios-plugins-users-2.2.1-15.20180725git3429dad.el7.ppc64le
 nagios-plugins-wave-2.2.1-15.20180725git3429dad.el7.ppc64le
+# NAME Base Install
 nano-2.3.1-10.el7.ppc64le
 nasm-2.10.07-7.el7.ppc64le
 nautilus-3.26.3.1-2.el7.ppc64le
@@ -2520,6 +2518,8 @@ ocaml-4.05.0-6.el7.ppc64le
 ocaml-compiler-libs-4.05.0-6.el7.ppc64le
 ocaml-runtime-4.05.0-6.el7.ppc64le
 ocaml-srpm-macros-5-2.el7.noarch
+ocd-release-3.4-3.1.ocd3.noarch
+ocd-release-base-3.4-3.1.ocd3.noarch
 oci-register-machine-0-6.git2b44233.el7.ppc64le
 oci-systemd-hook-0.1.18-2.git3efe246.el7.ppc64le
 oci-umount-2.3.4-2.git87f9237.el7.ppc64le
@@ -4213,6 +4213,7 @@ virt-manager-common-1.5.0-1.el7.noarch
 virtuoso-opensource-6.1.6-6.el7.ppc64le
 virt-what-1.18-4.el7.ppc64le
 virt-who-0.22.5-1.el7.noarch
+# VISIBLE false
 vlc-3.0.0-0.33.2chaos.ocd3.ppc64le
 vlc-core-3.0.0-0.33.2chaos.ocd3.ppc64le
 vlc-devel-3.0.0-0.33.2chaos.ocd3.ppc64le
@@ -4407,6 +4408,7 @@ yelp-tools-3.28.0-1.el7.noarch
 yelp-xsl-3.28.0-1.el7.noarch
 yum-3.4.3-161.el7.centos.noarch
 yum-langpacks-0.4.2-7.el7.noarch
+# YUM mandatory
 yum-metadata-parser-1.1.4-10.el7.ppc64le
 yum-plugin-changelog-1.1.31-50.el7.noarch
 yum-plugin-fastestmirror-1.1.31-50.el7.noarch
@@ -4426,5 +4428,3 @@ zlib-devel-1.2.7-18.el7.ppc64le
 zsh-5.0.2-31.el7.ppc64le
 zvbi-0.2.35-1.el7.ppc64le
 zziplib-0.13.62-9.el7.ppc64le
-ocd-release-3.4-3.1.ocd3.noarch
-ocd-release-base-3.4-3.1.ocd3.noarch
