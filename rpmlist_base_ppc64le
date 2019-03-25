@@ -2518,7 +2518,7 @@ ocaml-4.05.0-6.el7.ppc64le
 ocaml-compiler-libs-4.05.0-6.el7.ppc64le
 ocaml-runtime-4.05.0-6.el7.ppc64le
 ocaml-srpm-macros-5-2.el7.noarch
-ocd-release-03242019.ocd3.noarch
+ocd-release-20190324.ocd3.noarch
 oci-register-machine-0-6.git2b44233.el7.ppc64le
 oci-systemd-hook-0.1.18-3.git8787307.el7_6.ppc64le
 oci-umount-2.3.4-2.git87f9237.el7.ppc64le

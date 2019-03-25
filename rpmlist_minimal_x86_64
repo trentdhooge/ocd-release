@@ -93,7 +93,7 @@ nss-softokn-freebl-3.36.0-5.el7_5.x86_64
 nss-sysinit-3.36.0-7.1.el7_6.x86_64
 nss-tools-3.36.0-7.1.el7_6.x86_64
 nss-util-3.36.0-1.1.el7_6.x86_64
-ocd-release-03242019.ocd3.noarch
+ocd-release-20190324.ocd3.noarch
 openldap-2.4.44-21.el7_6.x86_64
 openssl-libs-1.0.2k-16.el7_6.1.x86_64
 p11-kit-0.23.5-3.el7.x86_64

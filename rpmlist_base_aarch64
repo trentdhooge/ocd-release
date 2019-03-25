@@ -2458,7 +2458,7 @@ ocaml-4.05.0-6.el7.aarch64
 ocaml-compiler-libs-4.05.0-6.el7.aarch64
 ocaml-runtime-4.05.0-6.el7.aarch64
 ocaml-srpm-macros-5-2.el7.noarch
-ocd-release-03242019.ocd3.noarch
+ocd-release-20190324.ocd3.noarch
 ocl-icd-2.2.12-1.el7.aarch64
 octave-3.8.2-20.el7.aarch64
 octave-devel-3.8.2-20.el7.aarch64
