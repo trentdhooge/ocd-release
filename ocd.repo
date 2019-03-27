@@ -1,7 +1,6 @@
-[ocd]
+[OCD]
 name=OCD
 baseurl=ftp://gdo127.llnl.gov/projects/ocd/current/$basearch
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-tbuild
-       ftp://gdo127.llnl.gov/projects/ocd/rpm-gpg/RPM-GPG-KEY-tbuild
 enable=1
