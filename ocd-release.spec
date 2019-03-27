@@ -46,7 +46,9 @@ chmod 444 %{buildroot}/etc/ocd-release
 
 # Install CR/LF Builder key
 %{__mkdir_p} %{buildroot}/etc/pki/rpm-gpg
+%{__mkdir_p} %{buildroot}/etc/pki/rpm-gpg/CentOS
 %{__cp} keys/RPM-GPG-KEY* $RPM_BUILD_ROOT/etc/pki/rpm-gpg
+%{__cp} keys/CentOS/RPM-GPG-KEY* $RPM_BUILD_ROOT/etc/pki/rpm-gpg/CentOS
 
 # link in correct opt rpmlist
 cd %{buildroot}/etc/ocd 
@@ -68,10 +70,12 @@ rm -rf %{buildroot}
 /usr/share/doc/%{name}-%{version}/NOTICE
 /usr/share/doc/%{name}-%{version}/README
 /etc/pki/rpm-gpg/RPM-GPG-KEY*
+/etc/pki/rpm-gpg/CentOS/RPM-GPG-KEY*
 
 %post
 # install all the public keys
 rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY*
+rpm --import /etc/pki/rpm-gpg/CentOS/RPM-GPG-KEY*
 
 # link in correct opt rpmlist
 cd /etc/ocd 
