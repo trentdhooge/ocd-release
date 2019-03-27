@@ -1,6 +1,6 @@
 Name: ocd-release
 Version: 3.4
-Release: 20190327%{?dist}
+Release: 20190327.1%{?dist}
 Summary: OCD OS Release Information
 License: GPLv2
 Group: System Environment/Base
