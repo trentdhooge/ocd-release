@@ -52,9 +52,9 @@ chmod 444 %{buildroot}/etc/ocd-release
 
 # link in correct opt rpmlist
 cd %{buildroot}/etc/ocd 
-rm -f rpmlist_base rpmlist_minimal
+rm -f rpmlist_base rpmlist_container
 ln -s rpmlist_base_`arch` rpmlist_base
-ln -s rpmlist_minimal_`arch` rpmlist_minimal
+ln -s rpmlist_container_`arch` rpmlist_container
 
 %clean
 rm -rf %{buildroot}
@@ -79,6 +79,6 @@ rpm --import /etc/pki/rpm-gpg/CentOS/RPM-GPG-KEY*
 
 # link in correct opt rpmlist
 cd /etc/ocd 
-rm -f rpmlist_base rpmlist_minimal
+rm -f rpmlist_base rpmlist_container
 ln -s rpmlist_base_`arch` rpmlist_base
-ln -s rpmlist_minimal_`arch` rpmlist_minimal
+ln -s rpmlist_container_`arch` rpmlist_container
